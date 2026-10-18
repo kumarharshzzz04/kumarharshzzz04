@@ -38,17 +38,29 @@
 
 `PyTorch` · `CUDA` · `tokenizers` · `React 19` · `MIT`
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kumarharshzzz04/haiku-zero/main/docs/images/cover.jpg" alt="HAIKU ZERO — the desk, with a poem written from the seed word harbor" width="860"/>
+</p>
+
 ### [HadeS](https://github.com/kumarharshzzz04/HadeS) — an AI tutor for 18 hours of lecture video
 
 Turns a lecture series into a searchable tutor. Answers stream with the exact lesson and minute they came from, the video plays in the answer card at that timestamp, and retrieval was validated at **11/11** on a fixed question set. Whisper transcription, FAISS retrieval and a local LLM, with no API keys to leak.
 
 `Python` · `FAISS` · `faster-whisper` · `Ollama llama3:8b` · `FastAPI` · `React 19` · `MIT`
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kumarharshzzz04/HadeS/main/docs/images/chat.png" alt="HadeS — a grounded answer with the cited lesson, its timestamps and a quiz" width="860"/>
+</p>
+
 ### [Jane](https://github.com/kumarharshzzz04/jane) — an AI data analyst you can audit
 
 Ask a CSV, Excel, JSON or Parquet file a question and get an answer with the evidence attached: Jane writes **read-only DuckDB SQL** you can inspect and shows the rows behind every conclusion.
 
 `Python` · `DuckDB` · `Ollama` · `React 19` · `Vite` · `Tailwind v4`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kumarharshzzz04/jane/main/docs/assets/dashboard.png" alt="Jane — analysis results with KPI cards, charts and the SQL behind every number" width="860"/>
+</p>
 
 ### [Hybrid quantum-classical disease predictor](https://github.com/kumarharshzzz04/qml-disease-prediction) — quantum and classical models, measured honestly
 
